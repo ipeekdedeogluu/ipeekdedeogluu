@@ -1,7 +1,7 @@
 # Hi 👋 I'm İpek
 
 🎓 Senior Software Engineering Student at **Maltepe University**  
-💻 Full-Stack Web Developer (UX/UI + Backend + Database)  
+💻 Full-Stack Web Developer  
 📊 Aspiring Data Scientist | Python & AI-focused
 
 ---
