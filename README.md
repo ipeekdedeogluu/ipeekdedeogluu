@@ -1,61 +1,74 @@
 # Hi 👋 I'm İpek
 
-🎓 Senior Software Engineering Student at **Maltepe University**  
-💻 Full-Stack Web Developer  
-📊 Aspiring Data Scientist | Python & AI-focused
+🎓 Software Engineering graduate, **Maltepe University** (2026)  
+🧩 Product Management · UI/UX Design · Full-Stack Web Development  
+🤖 Interested in AI — built a CNN-based emotion analysis prototype for my capstone
 
 ---
 
 ## 🚀 About Me
-I am a senior software engineering student with strong hands-on experience in **full-stack web development**, including **UX/UI design**, backend logic, database integration, and SEO-focused systems.
+I work where product, design and code meet. I like taking a problem from requirements and user flows, through Figma screens, to a working product in code.
 
-While actively developing web applications, my long-term goal is to specialize in **Data Science** and **AI**, and to combine data-driven intelligence with scalable web platforms.
+During my product management internship I worked on an AI-powered fintech platform. As a freelancer I've designed and built websites and an in-store kiosk that are live and in daily use.
 
 ---
 
-## 🧠 Technical Focus
-- **Web Development:** Full Stack (Frontend + Backend)
-- **Frameworks:** Next.js, custom JavaScript solutions
-- **Databases:** SQL-based systems & data modeling
-- **SEO & Analytics:** Technical SEO, performance optimization, data analysis
-- **Data Science & AI:** Python, model training, data-oriented problem solving
+## 🧠 Tech & Tools
+- **Frontend & Web:** HTML, CSS, JavaScript, Next.js, responsive design
+- **Backend & Data:** SQL / MySQL, Python, C#
+- **AI / ML:** Python, CNN model training
+- **Design:** Figma (UI design, wireframes, interactive prototypes)
+- **Product:** Requirements analysis, user flows, use case & activity diagrams, Agile/Scrum, Jira
+- **SEO:** Technical SEO, Google Search Console
 
 ---
 
 ## 💼 Experience
 
-### 🏛 Zeytinburnu Municipality
-**Full-Stack Web Developer Intern**
-- Developed a **full-stack web application using Next.js**
-- Designed and implemented **UX/UI** flows
-- Worked on backend logic and system structure
-- Focused on usability, performance, and maintainability
+### 📊 Infina Yazılım — Product Management Intern
+- Worked on **Fundvisor AI**, an AI-powered decision-support platform for fund managers
+- Wrote product requirements, user flows and activity diagrams
+- Designed UX/UI screens and an [interactive prototype](https://www.figma.com/proto/IeO20MRXvAZHmE7BKtKQfe/Fundvisor-AI?node-id=112-2539&starting-point-node-id=112%3A2539) in Figma
+- Tracked features and bugs in Jira and joined daily and weekly Scrum meetings
 
-### 🌍 AVS Global Ship Supply
-**Web Development & SEO Intern**
-- Web development using **HTML, Custom JavaScript, and Next.js**
-- Actively worked on **SEO optimization** and site performance
-- Contributed to analytics-driven improvements
+### 🏛 Zeytinburnu Municipality — Full-Stack Web Developer Intern
+- Proposed and built **El Emeğine Destek**, a marketplace prototype for products made in the municipality's vocational courses
+- Sellers can keep the revenue or donate it to municipal animal shelters
+- Designed in Figma, built with **Next.js** and **MySQL**
 
-### 🧑‍💻 Freelance Web Developer
-- Developed a corporate website for **Üçsan Etiket**
-- Focused on SEO, performance optimization, and clean UI
-- Delivered end-to-end web solutions
+### 🌍 AVS Global Ship Supply — Web Development Intern (Marketing)
+- Improved and maintained the company website with HTML, CSS and JavaScript
+- Worked on SEO and site visibility through Google Search Console
 
----
-
-## 🧪 Current Work
-- Actively developing my **own full-stack web platform**
-- Training **AI modules with Python**
-- Preparing to integrate **Data Science capabilities into web systems**
+### 🧑‍💻 Freelance Web Developer & Designer
+- **[Loris Parfüm France](https://www.lorisparfums.com/kiosk-trouvez-votre-parfum.html):** designed and coded an in-store touchscreen kiosk that helps customers find the right perfume, in 4 languages (FR, EN, NL, TR), then adapted it into a [web page](https://www.lorisparfums.com/trouvez-votre-parfum.html)
+- **[Üçsan Etiket](https://ucsanetiket.com/?lang=en):** planned, designed and built a custom, responsive corporate website directly in code (live since November 2025)
 
 ---
 
-## 🎯 Career Goal
-To build **data-driven, intelligent web applications** by combining  
-**Web Development + Data Science + AI**.
+## 🧪 Featured Project — InnerFace
+My capstone project: a multimodal AI prototype that analyzes **facial expressions, speech and text** to detect inconsistencies between them.
+- Trained the facial expression model with a **CNN** in Python
+- Built a web prototype that generates PDF reports
+- The paper was published in the [ICADA 2026 proceedings](https://drive.google.com/file/d/1ddtotSwaj-MbGarNRU5rP3663vyJi7HO/view) and presented in English
+
+---
+
+## 🎨 Portfolio
+👉 [View my design portfolio](https://www.figma.com/proto/onfLXG16jZ1T2oI1oBlpco/%C4%B0pek-Dedeo%C4%9Flu-Portfolio?node-id=29-851&p=f&t=Q7btETvrcdH06VRZ-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=29%3A851)
+
+---
+
+## 🎯 What I'm Looking For
+Junior roles in **product management, UI/UX design or software engineering**, where I can design and build products people actually use.
+
+---
+
+## 🌐 Languages
+Turkish (Native) · English (C1) · Spanish (B1) · German (A1)
 
 ---
 
 ## 📫 Contact
-📧 Email: ipekdedeoglu00@gmail.com
+📧 ipekdedeoglu00@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ipek-dedeo%C4%9Flu-2765a5270/)
